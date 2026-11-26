@@ -14,7 +14,7 @@
       "name": "maid-runner",
       "source": "./plugins/maid-runner",
       "description": "Tool-agnostic validation framework for Manifest-driven AI Development (MAID) methodology",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": {
         "name": "Mamerto Fabian",
         "email": "mamerto@codefrost.dev"
